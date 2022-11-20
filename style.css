@@ -80,6 +80,11 @@ h1 {
   letter-spacing: 40px;
 }
 
+.screen-div-count {
+  font-weight: 800;
+  color: orange;
+}
+
 .reset-btn {
   display: flex;
   justify-content: center;
