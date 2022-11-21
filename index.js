@@ -23,7 +23,6 @@ function maker() {
   for (let i = 0; i < makerArr.length; i ++) {
     makerArr[i] = random();
   };
-  console.log(makerArr);
   answer = makerArr;
   return answer;
 };
